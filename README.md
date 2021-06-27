@@ -17,7 +17,7 @@ EtherDream.Find( args => {
 });
 ```
 
-## Connection EtherDream
+## Connect EtherDream
 
 ```
 void Start ()
